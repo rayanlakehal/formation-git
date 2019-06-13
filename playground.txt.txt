@@ -2,6 +2,7 @@ formation git
 h
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 dfghj
 =======
 ghbj
@@ -9,3 +10,6 @@ ghbj
 =======
 ghbj
 >>>>>>> branch1
+=======
+ghbj
+>>>>>>> branch2
