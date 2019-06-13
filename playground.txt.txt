@@ -1,3 +1,7 @@
 formation git
 h
+<<<<<<< HEAD
 dfghj
+=======
+ghbj
+>>>>>>> 1st-branch
