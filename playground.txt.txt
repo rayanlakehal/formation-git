@@ -1,22 +1,14 @@
 formation git
 h
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 dfghj
-=======
 ghbj
->>>>>>> 1st-branch
-=======
 ghbj
->>>>>>> branch1
-=======
 ghbj
->>>>>>> branch2
-=======
-ghbj
+ghb
 jfgshte
 jttdf
 ryjsrjfh
->>>>>>> branch3
+ghbj
+thtsrth
+hgsjfgjfgjf
+
